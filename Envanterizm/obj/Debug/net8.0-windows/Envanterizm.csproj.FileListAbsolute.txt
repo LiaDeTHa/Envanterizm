@@ -1,0 +1,16 @@
+D:\VSProjects\C#Form\Envanterizm\bin\Debug\net8.0-windows\Envanterizm.exe
+D:\VSProjects\C#Form\Envanterizm\bin\Debug\net8.0-windows\Envanterizm.deps.json
+D:\VSProjects\C#Form\Envanterizm\bin\Debug\net8.0-windows\Envanterizm.runtimeconfig.json
+D:\VSProjects\C#Form\Envanterizm\bin\Debug\net8.0-windows\Envanterizm.dll
+D:\VSProjects\C#Form\Envanterizm\bin\Debug\net8.0-windows\Envanterizm.pdb
+D:\VSProjects\C#Form\Envanterizm\obj\Debug\net8.0-windows\Envanterizm.csproj.GenerateResource.cache
+D:\VSProjects\C#Form\Envanterizm\obj\Debug\net8.0-windows\Envanterizm.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\C#Form\Envanterizm\obj\Debug\net8.0-windows\Envanterizm.AssemblyInfoInputs.cache
+D:\VSProjects\C#Form\Envanterizm\obj\Debug\net8.0-windows\Envanterizm.AssemblyInfo.cs
+D:\VSProjects\C#Form\Envanterizm\obj\Debug\net8.0-windows\Envanterizm.csproj.CoreCompileInputs.cache
+D:\VSProjects\C#Form\Envanterizm\obj\Debug\net8.0-windows\Envanterizm.dll
+D:\VSProjects\C#Form\Envanterizm\obj\Debug\net8.0-windows\refint\Envanterizm.dll
+D:\VSProjects\C#Form\Envanterizm\obj\Debug\net8.0-windows\Envanterizm.pdb
+D:\VSProjects\C#Form\Envanterizm\obj\Debug\net8.0-windows\Envanterizm.genruntimeconfig.cache
+D:\VSProjects\C#Form\Envanterizm\obj\Debug\net8.0-windows\ref\Envanterizm.dll
+D:\VSProjects\C#Form\Envanterizm\obj\Debug\net8.0-windows\Envanterizm.Envanterizm.resources
